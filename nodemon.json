@@ -1,0 +1,24 @@
+{
+  "ignore": [
+    "build/**/*",
+    "config/**/*",
+    "dist/**/*",
+    "node_modules/**/*",
+    "src/**/*",
+    "static/**/*",
+    "test/**/*",
+    ".babelrc",
+    ".editorconfig",
+    ".eslintignore",
+    ".eslintrc.js",
+    ".gitattributes",
+    ".gitignore",
+    ".postcssrc",
+    "index.html",
+    "nodemon.json",
+    "npm_start.log",
+    "package-lock.json",
+    "package.json",
+    "README.md"
+  ]
+}
